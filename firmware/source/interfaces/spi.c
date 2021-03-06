@@ -17,7 +17,7 @@
  * Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
  */
 
-#include "drivers/fsl_port.h"
+#include "fsl_port.h"
 #include "interfaces/hr-c6000_spi.h"
 
 const uint32_t SPI_0_BAUDRATE = 3000000U;
